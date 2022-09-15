@@ -1,11 +1,11 @@
 ### 📦 **CupertinoApp UIKIT**
 
-A Cupertino UIKIT Simple To Use
+A Cupertino UIKIT (IOS) Simple To Use 
 Made With Flutter
 
 ### 🚀 **Getting Started**
 1. Clone this project || Download Zip from GitHub
-2. Run the project 
+2. Run the project In Web or Emulator
 
 ### 📷 **Screenshots**
 
