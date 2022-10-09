@@ -1,6 +1,6 @@
-### 📦 **CupertinoApp UIKIT**
+### 📦 **Cupertino UIKit**
 
-A Cupertino UIKIT (IOS) Simple To Use 
+Easy Cupertino UIKit
 Made With Flutter
 
 ### 🚀 **Getting Started**
