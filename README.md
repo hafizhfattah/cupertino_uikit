@@ -4,7 +4,7 @@ Easy Cupertino UIKit for Flutter
 
 ### 🚀 **Getting Started**
 1. Clone this project || Download Zip from GitHub
-2. Run the project In Web or Emulator
+2. Run the project In Web or Emulator.
 
 ### 📷 **Screenshots**
 
