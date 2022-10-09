@@ -1,7 +1,6 @@
 ### 📦 **Cupertino UIKit**
 
-Easy Cupertino UIKit
-Made With Flutter
+Easy Cupertino UIKit for Flutter
 
 ### 🚀 **Getting Started**
 1. Clone this project || Download Zip from GitHub
